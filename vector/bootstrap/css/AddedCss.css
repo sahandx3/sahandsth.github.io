@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+#navbar {
+    background-color: black !important;
+}
+#navbar a{
+    color: white;
+}
+.dropdown-menu a{
+    color: black !important;
+}
+#about{
+    color: rgb(225 153 0) !important;
+}
+.navbar-toggler-icon{
+    background-color: rgb(225 153 0) !important;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: rgb(225 153 0);
+    color: black;
+    border-color: rgb(225 153 0);
+}
+button.btn.btn-outline-success.my-2.my-sm-0:hover {
+    color: white;
+    border-color: white;
+}
+#logo{
+    height: 40px;
+}
+#searchform{
+    margin-left: 10px !important;
+    width: 100% !important;
+    position: relative;
+}
+#nav-search-box{
+    width: 80%;
+}
+#nav-search-button{
+    width: 17%;
+}
+
+#carouselExampleInterval img{
+    max-height: 60%;
+    width: 80% !important;
+    margin: auto;
+}
+.col-lg-6 img{
+    width: 100%;
+}
+.col-lg-6 button{
+    padding: 20px;
+}
+.features-icons,.testimonials{
+    background-color: black !important;
+    color: white !important;
+}
+
+
+hr{
+    background-color: rgb(225 153 0);
+ }
+.features-icons {
+    padding-top: 3rem !important;
+    padding-bottom: 0rem !important;
+}
+.testimonials {
+    padding-top: 3rem !important;
+}
+.col-lg-4 img{
+    height: 200px;
+    width: 200px;
+    filter: grayscale(80%);
+}
+.col-lg-4 img:hover{
+    transform: scale(1.1);
+    filter: grayscale(0%);
+}
+.form-group,#submit{
+    color: white;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#bottom-page{
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+.fa-phone{
+    color: blue;
+}
+.fa-envelope{
+    color: khaki;
+}
+.fa-thumbtack{
+    color: red;
+}
+
+.fa-thumbtack, .fa-envelope , .fa-phone {
+    padding-right:10px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 15%;
+}
+
+
+#aboutus{
+    background-color: black !important;
+}
+#address{
+    color: white;
+}
+.btn-group img{
+    float: right !important;
+    width: 60px;
+    height: 60px;
+    margin: 40px;
+    background-color: black;
+}
+.col-md-12{
+    text-align: center;
+}
+
